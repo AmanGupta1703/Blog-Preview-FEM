@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AmanGupta1703/Blog-Preview-FEM](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-fem.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
@@ -54,7 +54,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Blog Preview](https://www.your-site.com)
+- Website - [Blog Preview](https://blog-preview-fem.vercel.app/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
 - Twitter - [@thekunalgupta17](https://www.twitter.com/thekunalgupta17)
 
